@@ -20,21 +20,44 @@
 
 ## 🧃 About Me (Vibes First, Questions Later)
 
+<table>
+<tr>
+<td width="42%" valign="top">
+
+<img src="mm.png" width="100%" style="border-radius:16px; box-shadow:0px 0px 25px rgba(0,255,170,0.6);" />
+
+</td>
+<td width="58%" valign="top">
+
+<div style="padding-left:15px;">
+
 I vibe in the kitchen.  
 I vibe while walking the dog.  
 I vibe in the shower.  
-I vibe on the loo.  
+I vibe on the shitter.  
 I have vibed in places that should not legally allow vibing.
 
-Once upon a time I was grinding C++ like a medieval peasant sharpening a sword made of compiler errors.  
-Then AI changed the game and I evolved into the **VibeMaster 5000**: now I ship ideas at reckless velocity and use "scope" as a suggestion.
+<br/>
 
-```text
-VIBE-O-METER:
-[|||||||||||||||||||||||||||||||||||||||||||||||||] 9999/10
-```
+Once upon a time I was grinding C++ like a medieval peasant sharpening a sword made of compiler errors.  
+Then AI changed the game and I evolved into the <strong>VibeMaster 5000</strong>: now I ship ideas at reckless velocity and use "scope" as a suggestion.
+
+<br/><br/>
+
+<div style="background: linear-gradient(90deg,#00ff9d,#ff00ff); padding:8px 12px; border-radius:12px; font-family:monospace; font-weight:bold; color:black; display:inline-block;">
+VIBE-O-METER: 9999/10 — LIMITER DISABLED
+</div>
+
+</div>
+
+</td>
+</tr>
+</table>
+
 
 ---
+
+
 
 ## 🚀 Main Quake Crimes (The Fun Kind)
 
