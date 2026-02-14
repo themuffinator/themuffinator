@@ -122,18 +122,13 @@ I will arrive vibrating slightly, with a plan and three alternate plans (all of 
 
 ---
 
-<details>
-<summary>📈 Optional: GitHub Stats (click to expand)</summary>
-
 <div align="center">
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=themuffinator&show_icons=true&hide_title=true">
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=themuffinator&show_icons=true&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=themuffinator&layout=compact&theme=dark&hide_border=true"/>
 <br/>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themuffinator&layout=compact">
 
 </div>
-
-</details>
 
 ---
 
