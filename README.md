@@ -24,8 +24,6 @@
 <tr>
 <td width="42%" valign="top">
 
-<img src="mm.png" width="100%" style="border-radius:16px; box-shadow:0px 0px 25px rgba(0,255,170,0.6);" />
-
 </td>
 <td width="58%" valign="top">
 
