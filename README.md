@@ -56,7 +56,7 @@ VIBE-O-METER: 9999/10 — LIMITER DISABLED
 
 
 ---
-
+<img src="mm3.png" width="100%" style="border-radius:16px; box-shadow:0px 0px 25px rgba(0,255,170,0.6);" />
 
 
 ## 🚀 Main Quake Crimes (The Fun Kind)
@@ -76,6 +76,8 @@ If it can be automated, it will be automated. If it cannot, it will be bullied u
 ### 🧟 Quake 4 Engine Replacement (Nearly Complete)
 A Quake 4 engine replacement thats nearing completion.  
 The goal: modernize, stabilize, and extend without begging 2005 for permission.
+
+<img src="mm4.png" width="100%" style="border-radius:16px; box-shadow:0px 0px 25px rgba(0,255,170,0.6);" />
 
 ---
 
