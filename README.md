@@ -123,6 +123,45 @@ With Quake on his mind,
 He left bugs far behind,  
 And shipped while the critics just clunk.
 
+<img src="mm5.png" width="100%" style="border-radius:16px; box-shadow:0px 0px 25px rgba(255,0,255,0.6);" />
+
+---
+
+## 🌀 Vibe Certification Program (Not Accredited, But Should Be)
+
+Have you ever wondered if *you* have what it takes to become a certified Vibe Coder?  
+Here is the official self-assessment. Be honest. No one is watching. (Except the compiler. Always the compiler.)
+
+| Criterion | Failing | Passing | Themuffinator Level |
+|---|---|---|---|
+| Coffee intake | 0 cups | 2–4 cups | "I don't track cups anymore" |
+| Commits before breakfast | 0 | 1 | Twelve, each more confident than the last |
+| README last updated | 3 years ago | This year | Actively being edited RIGHT NOW |
+| Bugs shipped as features | 0 (suspicious) | 1–2 | "That's not a bug, that's *texture*" |
+| Response to "have you tested this?" | "Yes" (lie) | "...mostly" | "Define 'tested'" |
+| Game engine relationship status | None | "It's complicated" | Married (Quake 4, idTech 4, we don't talk about idTech 5) |
+
+**Score yourself. If you got Themuffinator Level on any row, congratulations — you're already one of us.**
+
+---
+
+## 🎲 FAQ (Frequently Unasked Questions)
+
+**Q: Is any of this serious?**  
+A: The code is deadly serious. The README is a fever dream. Both are equally important.
+
+**Q: How many engines are too many engines?**  
+A: This is a trick question. "Too many" is not a real number.
+
+**Q: What IS a vibe?**  
+A: A vibe is what happens when intention meets momentum and neither of them stop to ask for directions.
+
+**Q: Can I contribute?**  
+A: Open an issue. If your energy is chaotic enough, you're already hired. (Unpaid. Obviously.)
+
+**Q: Is Quake better than [other game]?**  
+A: Yes.
+
 ---
 
 ## 🧪 Development Philosophy (Unhinged But Strangely Effective)
