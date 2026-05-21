@@ -470,22 +470,6 @@ Further containment is unlikely.
 
 ---
 
-## 10. Image Asset Production Script
-
-Use this manifest when generating the README image assets. The Markdown above already references these files, so once the generated images are saved into `assets/figures/`, the README will render them in place.
-
-| Figure | File | Size | Aspect Ratio | Purpose | Generation Brief |
-|---|---|---:|---:|---|---|
-| 0 | `assets/figures/fig00-muffi-nator-lab-banner.png` | `1600 × 520 px` | `40:13` | Primary masthead | Professor Muffi Nator in a glowing lab coat, CRT monitors, Quake maps, neon pink and green vapor, muffin crumbs, code fragments, and a whiteboard equation reading `VIBE = SLOP × MOMENTUM²`. |
-| 1 | `assets/figures/fig01-professor-muffi-nator-portrait.png` | `900 × 900 px` | `1:1` | Character portrait | Professor wearing oversized safety goggles and a Quake-patched lab coat, holding a muffin and a glowing C++ file, with neon equations, sparks, compiler warnings, and an ominous terminal behind him. |
-| 2 | `assets/figures/fig02-slopistic-laboratory.png` | `1400 × 800 px` | `7:4` | Lab environment | Research bench with keyboards, half-built Quake maps, compiler warnings, mugs of coffee, rubber duck in graduation cap, tangled cables, CRTs, and a glowing `DO NOT OPEN: VIBE CORE` chamber. |
-| 3 | `assets/figures/fig03-vibe-coding-workflow.png` | `1200 × 900 px` | `4:3` | Method diagram | Fake scientific flowchart: `Idea → Slop Agitation → Compiler Impact → Quake Logic → Unexpected Feature → Publish`, with warning symbols, neon arrows, faux peer-review stamps, and an escaped muffin. |
-| 4 | `assets/figures/fig04-quake-field-studies.png` | `1600 × 900 px` | `16:9` | Project collage | Four-panel collage for MuffMode arena combat, WORR! code replacement chaos, tooling dashboard, and Quake 4/idTech 4 engine chamber, using magenta, cyan, orange, and electric green sections. |
-| 5 | `assets/figures/fig05-slopistic-vibeanomics-model.png` | `1200 × 1200 px` | `1:1` | Theory model | Academic diagram of Dormant Slop, Excited Slop, Critical Vibe, and Muffination, with pseudo-equations, glowing particles, a muffin-shaped singularity, and a tiny Quake rocket launcher catalyst. |
-| 6 | `assets/figures/fig06-summoning-ritual.png` | `1400 × 700 px` | `2:1` | Contact/summoning visual | Developers around a glowing GitHub issue, terminal chanting, Professor descending from a curly-brace portal, carrying a muffin and debugger; ridiculous, colourful, mystical, and scientific. |
-
----
-
 <div align="center">
 
 ### Final Disclosure
